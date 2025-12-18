@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Sumanth
 
-<!--
-**SUMANTH1543/SUMANTH1543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science Engineering Graduate  at JNTUACEK <br/>
+📊 Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, and data visualization  
+📈 Passionate about turning raw data into actionable business insights  
+🧠 Worked on projects in data analysis, Data Modeling, and ETL pipelines  
+🚀 Actively building a strong analytics and cloud portfolio  
+💼 Seeking entry-level roles in Data Analytics / Data Engineering  
 
-Here are some ideas to get you started:
+🔗 [LinkedIn](https://www.linkedin.com/in/sumanthgodari/)<br/>
+📧 [Email](godarisumanth1543@gmail.com) <br/>
+📞 Contact: +91-9701365897 <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: [Azure Cloud & Azure Data Factory (ADF)](https://learn.microsoft.com/en-us/azure/data-factory/)
+
+[![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUMANTH1543&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
